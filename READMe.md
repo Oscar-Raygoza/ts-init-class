@@ -8,6 +8,11 @@ npm install
 ```
 
 #### Ejecución
+
+```bash
+npm run dev:watch
+```
+
 ```bash
 npm start
 ```
